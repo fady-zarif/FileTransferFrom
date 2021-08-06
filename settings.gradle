@@ -1,0 +1,4 @@
+include ':MqttOverIntentLib'
+include ':FileTransferFromPanel'
+include ':app'
+rootProject.name = "FileTransfer"
